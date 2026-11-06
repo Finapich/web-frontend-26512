@@ -1,5 +1,5 @@
 /* main.css … 26543さんの担当 */
-.box {
+.menu_box {
   max-width: 960px;
   margin: 0 auto;
   padding: 48px 16px;
@@ -46,7 +46,7 @@
   color: #b5651d;
 }
 
-.btn {
+.box-btn {
   display: inline-block;
   padding: 6px 20px;
   border: 2px solid #3b2a20;
